@@ -4,9 +4,9 @@
 
 **Tên tiếng Anh:** Personalized Vietnamese Meal Recommendation System
 
-**Phiên bản:** 1.0 (Draft)
+**Phiên bản:** 1.0 
 
-**Môn học:** Học máy nâng cao
+**Môn học:** Đồ án học máy nâng cao
 
 **Đơn vị:** Khoa Công nghệ Thông tin, Trường Đại học Xây dựng Hà Nội
 
