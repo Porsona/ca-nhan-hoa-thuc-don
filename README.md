@@ -68,6 +68,6 @@ Các tính năng trong README là mục tiêu phát triển, chưa phải nhữn
 
 ## 9. Tài liệu tham khảo
 
-- [Repository nghiên cứu ban đầu](https://github.com/hungnv-2811/goi-y-thuc-don)
-- [Food.com Dataset](https://www.kaggle.com/datasets/shuyangli94/food-com-recipes-and-user-interactions)
-- [USDA FoodData Central](https://fdc.nal.usda.gov/)
+Viện Dinh dưỡng – Tra cứu giá trị dinh dưỡng thực phẩm: https://viendinhduong.vn
+USDA FoodData Central: https://fdc.nal.usda.gov
+Majumder và cộng sự (2019), Generating Personalized Recipes from Historical User Preferences, EMNLP-IJCNLP – bộ dữ liệu Food.com
